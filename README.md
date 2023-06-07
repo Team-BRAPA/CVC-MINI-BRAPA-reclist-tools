@@ -1,4 +1,4 @@
-# CVVC BRAPA Reclist
+# CVC MINI BRAPA Reclist
 
 Repositório feito para arquivamento e divulgação da reclist PT-BR CVVC feito para sintetizadores de voz sampleados utilizando conotação BRAPA.<br/>
 Conotação*: [BRAPA](https://github.com/Team-BRAPA/BRAPA "BRAPA") / [Planilha Online](https://docs.google.com/spreadsheets/d/e/2PACX-1vTO5M3ZI9Hfe09PyiCd-VcFjXziGj3R1rGJoJTva9zLtkuDHYuPz18o959Wnb7Mt89yR-F0AKw1U8pU/pubhtml "Google Sheets")<br/>
