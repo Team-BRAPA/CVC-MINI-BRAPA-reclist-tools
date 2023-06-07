@@ -18,6 +18,9 @@ Tools por [@oipatiu](https://github.com/oipatiu) e [@Fukaoni](https://github.com
 ## Download
 Você pode fazer o download [clicando aqui](https://github.com/Team-BRAPA/CVC-MINI-BRAPA-reclist-tools/archive/refs/heads/main.zip "Reclist")
 
+## Scripts via Colab
+Você consegue usar os scripts pelo navegador [Clicando aqui](https://colab.research.google.com/drive/1Xfxt-k492Qa7efb80-OtuCSDvVgT7q0N?usp=sharing)<br/>
+
 *Conotação desta reclist contém uma pequena modificação no fonema `x`, podendo ser gravado como `x` ou `hr` da conotação base, dependendo da preferência ou facilidade do criador de fazer algum desses sons.
 
 *Nessa verção da lista o ' é o glottal stop.
