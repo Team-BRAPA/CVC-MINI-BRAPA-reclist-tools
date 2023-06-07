@@ -16,7 +16,7 @@ Tools por [@oipatiu](https://github.com/oipatiu) e [@Fukaoni](https://github.com
 * Tsukine -paçoca- [YouTube](https://www.youtube.com/watch?v=8nGmSRinlCo)
 
 ## Download
-Você pode fazer o download [clicando aqui](https://github.com/Team-BRAPA/CVC-PTBR-Reclist/archive/refs/heads/main.zip "Reclist")
+Você pode fazer o download [clicando aqui](https://github.com/Team-BRAPA/CVVC-BRAPA-reclist-tools/archive/refs/heads/main.zip "Reclist")
 
 *Conotação desta reclist contém uma pequena modificação no fonema `x`, podendo ser gravado como `x` ou `hr` da conotação base, dependendo da preferência ou facilidade do criador de fazer algum desses sons.
 
