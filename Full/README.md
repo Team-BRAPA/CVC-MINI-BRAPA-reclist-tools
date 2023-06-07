@@ -4,8 +4,9 @@ Esta lista contém fonemas recomendados para um voicebank Português Brasileiro 
 ## Informações
 - Quantidade de vogais: `14`
 - Quantidade de consoantes: `28`
-- Número de gravações: `401`
-- Número de configurações (oto): `1654`
+- Número de gravações: `104`
+- Número de configurações (oto, base): `895`
+- Número de configurações (oto, com compatibilidade): `1654`
 <br/>
 
 - Vogais: `a, e, i, o, u, eh, oh, an, en, in, on, un, ax, ae`
