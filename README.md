@@ -9,7 +9,7 @@ Reclist criada por [@coffeemilk](https://latinlechedotcom.carrd.co/)
 Tools por [@oipatiu](https://github.com/oipatiu) e [@Fukaoni](https://github.com/fuka-oni)
 
 ## Pastas
-**Lista:** Lista contendo fonemas mínimos para a criação do banco de voz <br/>
+**Full:** Lista contendo fonemas mínimos para a criação do banco de voz <br/>
 **Scripts** Os scripts para criação dos Alias extras na oto
 
 ## Bancos de Voz
