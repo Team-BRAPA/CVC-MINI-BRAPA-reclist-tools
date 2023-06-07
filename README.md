@@ -6,7 +6,7 @@ BGM Guide recomendado: [単独音・3モーラ用ガイドBGM](https://bowlroll.
 Programa de gravação recomendado: [OREMO](https://pt.osdn.net/users/nwp8861/pf/OREMO/wiki/FrontPage "OREMO") por nwp8861<br/>
 Guia visual de como configurar/otoar: [Wiki](https://github.com/Team-BRAPA/CVC-Brapa-Reclist/wiki "Wiki")<br/>
 Reclist criada por [@coffeemilk](https://latinlechedotcom.carrd.co/)
-Tools por @oipatiu(https://github.com/oipatiu) e @Fukaoni(https://github.com/fuka-oni)
+Tools por [@oipatiu](https://github.com/oipatiu) e [@Fukaoni](https://github.com/fuka-oni)
 
 ## Pastas
 **Lista:** Lista contendo fonemas mínimos para a criação do banco de voz <br/>
