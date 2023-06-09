@@ -16,8 +16,8 @@ Tools por [@oipatiu](https://github.com/oipatiu) e [@Fukaoni](https://github.com
 * Tsukine -paçoca- [YouTube](https://www.youtube.com/watch?v=8nGmSRinlCo)
 
 ## Download
-Você pode fazer o download [clicando aqui](https://github.com/Team-BRAPA/CVC-MINI-BRAPA-reclist-tools/archive/refs/heads/main.zip "Reclist")
-BGM [aqi](https://cdn.discordapp.com/attachments/893701318642901012/1116830342763003966/Brapa_BGM.rar)
+Você pode fazer o download [clicando aqui](https://github.com/Team-BRAPA/CVC-MINI-BRAPA-reclist-tools/archive/refs/heads/main.zip "Reclist") <br/>
+BGM [aqui](https://cdn.discordapp.com/attachments/893701318642901012/1116830342763003966/Brapa_BGM.rar)
 
 ## Scripts via Colab
 Você consegue usar os scripts pelo navegador [Clicando aqui](https://colab.research.google.com/drive/1Xfxt-k492Qa7efb80-OtuCSDvVgT7q0N?usp=sharing)<br/>
