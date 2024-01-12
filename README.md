@@ -24,4 +24,4 @@ Você consegue usar os scripts pelo navegador [Clicando aqui](https://colab.rese
 
 *Conotação desta reclist contém uma pequena modificação no fonema `x`, podendo ser gravado como `x` ou `hr` da conotação base, dependendo da preferência ou facilidade do criador de fazer algum desses sons.
 
-*Nessa verção da lista o ' é o glottal stop.
+*Nessa versão da lista o ' é o glottal stop.
