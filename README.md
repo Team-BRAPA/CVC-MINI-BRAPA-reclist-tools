@@ -1,7 +1,7 @@
 # CVC MINI BRAPA Reclist
 
 Repositório feito para arquivamento e divulgação da reclist PT-BR CVVC feito para sintetizadores de voz sampleados utilizando conotação BRAPA.<br/>
-Conotação*: [BRAPA](https://github.com/Team-BRAPA/BRAPA "BRAPA") / [Planilha Online](https://docs.google.com/spreadsheets/d/e/2PACX-1vTO5M3ZI9Hfe09PyiCd-VcFjXziGj3R1rGJoJTva9zLtkuDHYuPz18o959Wnb7Mt89yR-F0AKw1U8pU/pubhtml "Google Sheets")<br/>
+Conotação*: [BRAPA](https://github.com/Team-BRAPA/BRAPA "BRAPA") / [Planilha Online](https://github.com/Team-BRAPA/BRAPA/blob/main/SPREADSHEETS/FONEMAS.md "Fonemas")<br/>
 BGM Guide recomendado: [BGM BRAPA](https://cdn.discordapp.com/attachments/1115003444563021956/1115003445708066826/Brapa_BGM.rar?ex=655a65e1&is=6547f0e1&hm=6678296696ea23772fbc640b03ca803ddcb2c1f61ed7ce66360674efe9e61bff&) por Tiffany<br/>
 Programa de gravação recomendado: [OREMO](https://pt.osdn.net/users/nwp8861/pf/OREMO/wiki/FrontPage "OREMO") por nwp8861<br/>
 Guia visual de como configurar/otoar: [Wiki](https://github.com/Team-BRAPA/CVC-Brapa-Reclist/wiki "Wiki")<br/>
